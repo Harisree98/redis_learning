@@ -1,1 +1,9 @@
-//fist notes
+//how to create a repository and how to send our local repo to remote
+
+1. create a folder in our PC
+2. create a repo in github
+3. in any CLI use commands 
+   i)git init - this initalises a empty repo
+   ii)git remote origin  https://github.com/Harisree98/redis_learning.git - connect your local Git repository to a remote repository hosted on a server
+   iii) git branch -M feature/redis_learning  - create a branch
+   iv) which in turns makes you to switch to the new branch that you created
